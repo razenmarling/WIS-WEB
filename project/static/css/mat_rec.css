@@ -1,0 +1,23 @@
+.row{
+	margin-top: 10% !important;
+}
+.row2{
+	margin-top: 3% !important;
+}
+
+* {
+  .border-radius(0) !important;
+}
+
+#field {
+    margin-bottom:20px;
+}
+.add{
+	float: right;
+}
+.control-group{
+	width: 100%;
+}
+.input-width{
+	width: 93% !important;
+}

@@ -1,0 +1,14 @@
+a{
+	text-decoration: none !important;
+	text-align: center;
+}
+.main-body{
+	margin-top: 10%;
+}
+.box-shadow{
+	box-shadow: 3px 3px #303030;
+	color: #303030;
+}
+.mr-auto{
+	float: right !important;
+}
